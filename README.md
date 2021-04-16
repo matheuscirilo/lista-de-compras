@@ -1,4 +1,4 @@
-# treinamento1
+# Lista de Compras
 
 A new Flutter project.
 
